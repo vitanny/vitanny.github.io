@@ -1310,7 +1310,7 @@
 /* Basic */
 
 	body {
-		background-color:#b8cdbbe;
+		background-color:#b82f5f;
 		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
