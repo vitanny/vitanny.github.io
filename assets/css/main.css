@@ -1310,7 +1310,8 @@
 /* Basic */
 
 	body
-		background-color: #C31b9A;
+		background-color:#b82f5f;
+		
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
 		background-position: top left, center 0;
@@ -1319,10 +1320,9 @@
 		font-size: 18pt;
 		line-height: 1.75em;
 		font-weight: 300;
-		letter-spacing: 1px;	
-		color: #C31B9A;
-
-				text-shadow: 0 0 0.5px rgba(58, 57, 57, 0.25);
+		letter-spacing: 1px;
+		color: #74d600;
+		text-shadow: 0 0 0.5px rgba(58, 57, 57, 0.25);
 		-webkit-text-stroke: 0.25px;
 	}
 
