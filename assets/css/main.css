@@ -1310,7 +1310,7 @@
 /* Basic */
 
 	body
-		background-color:#dd0d8b;
+		background-color:##DD0D8B;
 		
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
@@ -1321,7 +1321,7 @@
 		line-height: 1.75em;
 		font-weight: 300;
 		letter-spacing: 1px;
-		color: #dd0d8b;
+		color: ##DD0D8B;
 		text-shadow: 0 0 0.5px rgba(58, 57, 57, 0.25);
 		-webkit-text-stroke: 0.25px;
 	}
