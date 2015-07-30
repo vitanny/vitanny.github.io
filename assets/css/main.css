@@ -1309,9 +1309,15 @@
 
 /* Basic */
 
+<<<<<<< HEAD
 	body
 		background-color:#b82f5f;
 		
+=======
+	body {
+		background-color:#116493;
+		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
+>>>>>>> parent of 57020b7... background-color
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
 		background-position: top left, center 0;
